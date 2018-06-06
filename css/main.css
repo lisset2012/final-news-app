@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+
+}
+header img{
+    /* border: 1px solid black; */
+    min-width: 55vw;
+    max-width: 55vw;
+    min-height: 40vh;
+    max-height: 40vh;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.imgNews{
+    /* border: 1px solid black; */
+    min-width: 15vw;
+    max-width: 15vw;
+    min-height: 20vh;
+    max-height: 20vh;
+}
+
+.secondDiv{
+    /* border: 1px solid black; */
+}
+
+.newsNews{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
